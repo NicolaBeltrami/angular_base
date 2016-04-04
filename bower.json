@@ -1,0 +1,25 @@
+{
+  "name": "Angular Base",
+  "description": "AngularBase",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.x",
+    "angular-route": "~1.4.x",
+    "angular-mocks": "~1.4.x",
+    "angular-resource": "~1.4.x",
+    "angular-animate": "~1.4.x",
+    "angular-translate": "~2.8.1",
+    "angular-translate-loader-static-files": "~2.8.1",
+    "angular-cookies": "~1.4.0",
+    "underscore": "1.8.x",
+    "normalize-css": "3.0.x",
+    "moment": "2.8.x",
+    "moment-timezone": "0.3.x"
+  },
+  "resolutions": {
+    "angular": "~1.4.x"
+  }
+}

@@ -1,0 +1,9 @@
+dist/**
+node_modules/**
+www/bower_components/**
+target/**
+src/main/webapp/dist/**
+src/main/webapp/node_modules/**
+src/main/webapp/www/bower_components/**
+tools/*
+npm-debug.log
